@@ -14,7 +14,9 @@ There are two different branches associated with this lesson.
 - Introduction to Middleware
 
 ### What Should Already Be Understood
-- Fundamentals of JavaScript, APIs, terminal navigation
+- Postman introduction
+- Express server initialization
+- Introduction to controller routes (req, res)
 
 ## Files / Folders in this Lesson
 - assets
