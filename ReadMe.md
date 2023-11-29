@@ -7,7 +7,7 @@ There are two different branches associated with this lesson.
 
 ### Before Getting Started
 - **Postman** is installed. Download link below.
-- **Nodemon**
+- **Nodemon** is installed. Download link below.
 
 ### Topics Covered
 - Expressjs, package.json, CRUD, Controllers, Introduction to Postman
@@ -28,18 +28,4 @@ There are two different branches associated with this lesson.
 ## Resources
 - [Postman Download](https://www.postman.com/downloads/)
 - [npm](https://www.npmjs.com/)
-
-## Challenges
-*All challenge solutions will be up to the instructor as to how they are provided.*
-
----
-```js
-/*
-!   Challenge
-    - Request Type: POST
-    - Endpoint: "greeting"
-    - Send: "Good Afternoon!" as a string
-    - Test: Postman
-        * hint: GET should be POST  
-*/
-```
+- [Nodemon](https://nodemon.io/)
