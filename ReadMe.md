@@ -10,7 +10,8 @@ There are two different branches associated with this lesson.
 - **Nodemon** is installed. Download link below.
 
 ### Topics Covered
-- Expressjs, package.json, CRUD, Controllers, Introduction to Postman
+- MVC
+- Introduction to Middleware
 
 ### What Should Already Be Understood
 - Fundamentals of JavaScript, APIs, terminal navigation
